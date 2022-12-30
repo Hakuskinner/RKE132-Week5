@@ -1,0 +1,15 @@
+C:\Users\SpireBlack\source\repos\week5LogicalOperations\OrOperation\obj\Debug\net6.0\OrOperation.csproj.AssemblyReference.cache
+C:\Users\SpireBlack\source\repos\week5LogicalOperations\OrOperation\obj\Debug\net6.0\OrOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SpireBlack\source\repos\week5LogicalOperations\OrOperation\obj\Debug\net6.0\OrOperation.AssemblyInfoInputs.cache
+C:\Users\SpireBlack\source\repos\week5LogicalOperations\OrOperation\obj\Debug\net6.0\OrOperation.AssemblyInfo.cs
+C:\Users\SpireBlack\source\repos\week5LogicalOperations\OrOperation\obj\Debug\net6.0\OrOperation.csproj.CoreCompileInputs.cache
+C:\Users\SpireBlack\source\repos\week5LogicalOperations\OrOperation\bin\Debug\net6.0\OrOperation.exe
+C:\Users\SpireBlack\source\repos\week5LogicalOperations\OrOperation\bin\Debug\net6.0\OrOperation.deps.json
+C:\Users\SpireBlack\source\repos\week5LogicalOperations\OrOperation\bin\Debug\net6.0\OrOperation.runtimeconfig.json
+C:\Users\SpireBlack\source\repos\week5LogicalOperations\OrOperation\bin\Debug\net6.0\OrOperation.dll
+C:\Users\SpireBlack\source\repos\week5LogicalOperations\OrOperation\bin\Debug\net6.0\OrOperation.pdb
+C:\Users\SpireBlack\source\repos\week5LogicalOperations\OrOperation\obj\Debug\net6.0\OrOperation.dll
+C:\Users\SpireBlack\source\repos\week5LogicalOperations\OrOperation\obj\Debug\net6.0\refint\OrOperation.dll
+C:\Users\SpireBlack\source\repos\week5LogicalOperations\OrOperation\obj\Debug\net6.0\OrOperation.pdb
+C:\Users\SpireBlack\source\repos\week5LogicalOperations\OrOperation\obj\Debug\net6.0\OrOperation.genruntimeconfig.cache
+C:\Users\SpireBlack\source\repos\week5LogicalOperations\OrOperation\obj\Debug\net6.0\ref\OrOperation.dll

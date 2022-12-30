@@ -1,0 +1,15 @@
+C:\Users\SpireBlack\source\repos\week5LogicalOperations\AndOperation\obj\Debug\net6.0\AndOperation.csproj.AssemblyReference.cache
+C:\Users\SpireBlack\source\repos\week5LogicalOperations\AndOperation\obj\Debug\net6.0\AndOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SpireBlack\source\repos\week5LogicalOperations\AndOperation\obj\Debug\net6.0\AndOperation.AssemblyInfoInputs.cache
+C:\Users\SpireBlack\source\repos\week5LogicalOperations\AndOperation\obj\Debug\net6.0\AndOperation.AssemblyInfo.cs
+C:\Users\SpireBlack\source\repos\week5LogicalOperations\AndOperation\obj\Debug\net6.0\AndOperation.csproj.CoreCompileInputs.cache
+C:\Users\SpireBlack\source\repos\week5LogicalOperations\AndOperation\bin\Debug\net6.0\AndOperation.exe
+C:\Users\SpireBlack\source\repos\week5LogicalOperations\AndOperation\bin\Debug\net6.0\AndOperation.deps.json
+C:\Users\SpireBlack\source\repos\week5LogicalOperations\AndOperation\bin\Debug\net6.0\AndOperation.runtimeconfig.json
+C:\Users\SpireBlack\source\repos\week5LogicalOperations\AndOperation\bin\Debug\net6.0\AndOperation.dll
+C:\Users\SpireBlack\source\repos\week5LogicalOperations\AndOperation\bin\Debug\net6.0\AndOperation.pdb
+C:\Users\SpireBlack\source\repos\week5LogicalOperations\AndOperation\obj\Debug\net6.0\AndOperation.dll
+C:\Users\SpireBlack\source\repos\week5LogicalOperations\AndOperation\obj\Debug\net6.0\refint\AndOperation.dll
+C:\Users\SpireBlack\source\repos\week5LogicalOperations\AndOperation\obj\Debug\net6.0\AndOperation.pdb
+C:\Users\SpireBlack\source\repos\week5LogicalOperations\AndOperation\obj\Debug\net6.0\AndOperation.genruntimeconfig.cache
+C:\Users\SpireBlack\source\repos\week5LogicalOperations\AndOperation\obj\Debug\net6.0\ref\AndOperation.dll

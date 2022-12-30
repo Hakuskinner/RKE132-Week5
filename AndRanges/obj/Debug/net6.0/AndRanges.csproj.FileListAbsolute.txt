@@ -1,0 +1,15 @@
+C:\Users\SpireBlack\source\repos\week5LogicalOperations\AndRanges\bin\Debug\net6.0\AndRanges.exe
+C:\Users\SpireBlack\source\repos\week5LogicalOperations\AndRanges\bin\Debug\net6.0\AndRanges.deps.json
+C:\Users\SpireBlack\source\repos\week5LogicalOperations\AndRanges\bin\Debug\net6.0\AndRanges.runtimeconfig.json
+C:\Users\SpireBlack\source\repos\week5LogicalOperations\AndRanges\bin\Debug\net6.0\AndRanges.dll
+C:\Users\SpireBlack\source\repos\week5LogicalOperations\AndRanges\bin\Debug\net6.0\AndRanges.pdb
+C:\Users\SpireBlack\source\repos\week5LogicalOperations\AndRanges\obj\Debug\net6.0\AndRanges.csproj.AssemblyReference.cache
+C:\Users\SpireBlack\source\repos\week5LogicalOperations\AndRanges\obj\Debug\net6.0\AndRanges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SpireBlack\source\repos\week5LogicalOperations\AndRanges\obj\Debug\net6.0\AndRanges.AssemblyInfoInputs.cache
+C:\Users\SpireBlack\source\repos\week5LogicalOperations\AndRanges\obj\Debug\net6.0\AndRanges.AssemblyInfo.cs
+C:\Users\SpireBlack\source\repos\week5LogicalOperations\AndRanges\obj\Debug\net6.0\AndRanges.csproj.CoreCompileInputs.cache
+C:\Users\SpireBlack\source\repos\week5LogicalOperations\AndRanges\obj\Debug\net6.0\AndRanges.dll
+C:\Users\SpireBlack\source\repos\week5LogicalOperations\AndRanges\obj\Debug\net6.0\refint\AndRanges.dll
+C:\Users\SpireBlack\source\repos\week5LogicalOperations\AndRanges\obj\Debug\net6.0\AndRanges.pdb
+C:\Users\SpireBlack\source\repos\week5LogicalOperations\AndRanges\obj\Debug\net6.0\AndRanges.genruntimeconfig.cache
+C:\Users\SpireBlack\source\repos\week5LogicalOperations\AndRanges\obj\Debug\net6.0\ref\AndRanges.dll
